@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Swapi</string>
+    <string name="title_people">People</string>
+    <string name="title_planets">Planets</string>
+    <string name="title_stars">StarShip</string>
+
+    <string name="label_birth">Birth : %s</string>
+    <string name="label_gender">Gender : %s</string>
+    <string name="label_Height">Height : %s</string>
+
+    <string name="label_terrain">Terrain : %s</string>
+    <string name="label_gravity">Gravity : %s</string>
+    <string name="label_populations">Populations : %s</string>
+
+    <string name="label_model">Model : %s</string>
+    <string name="label_Manufacturer">Manufacturer : %s</string>
+    <string name="label_Consumables">Consumables : %s</string>
+</resources>
